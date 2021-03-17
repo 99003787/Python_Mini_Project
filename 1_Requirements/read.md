@@ -22,7 +22,7 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 |LL003 | Excel file format | the workbook file should be of .xslx format|IMPLEMENTED
 |LL004 |Inputs|User can give multiple inputs like name,psnumber,Email at once|IMPLEMENTED
 |LL005 |Reading Data|Reading all 5 worksheets from workbook|IMPLEMENTED
-|LL004 |Inputs|Searching Data|Search for specific data based on user specific inputs|IMPLEMENTED
+|LL004 |Searching Data|Search for specific data based on user specific inputs|IMPLEMENTED
 |LL006 | Master Sheet Contains Created  | Master Sheet Contains 40X40 Format|IMPLEMENTED |
 
   
